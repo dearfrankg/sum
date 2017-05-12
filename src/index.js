@@ -1,1 +1,3 @@
-export default 'Welcome to foo'
+export default function sum(a, b) {
+  return a + b
+}
